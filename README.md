@@ -45,12 +45,5 @@ Here are some ideas to get you started:
 + 한국소프트웨어인재개발원 수료 (2018.11 ~ 2019.05)
   + 자바와 파이썬을 활용한 표준프레임워크 개발자 양성과정
 
-
-### 경력 (Non-Developer)
-----
-+ 그리즐리소프트 (2017.5 ~ 2018.10)
-  + 공동창업자, 기획 및 QA
   
-+ 선데이토즈 (2015.1 ~ 2017.5)
-  + 애니팡 시리즈 품질관리(QA) 업무
-  + 구글, 애플 스토어 마켓 정책 이슈 조사 및 대응 업무
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=harpuria)](https://github.com/anuraghazra/github-readme-stats)
