@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### 경력 (Developer)
 ----
 + 케이엘정보통신 (2019.10 ~ 재직중)
-  + 빠께스닷컴 쇼핑몰 개발
+  + 빠께스닷컴 쇼핑몰 개발 (https://archive.is/9JiNr, 서비스 종료 전 아카이브에 저장한 페이지 입니다)
   + 풍력 O&M 플랫폼 개발
   
 + 에이투엠 (2019.6 ~ 2019.9)
