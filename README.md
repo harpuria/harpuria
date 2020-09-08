@@ -19,9 +19,25 @@ Here are some ideas to get you started:
 
 ### 보유 기술 및 사용 도구
 ----
-+ Java, Spring(SpringBoot)
-+ Python, Django
-+ MariaDB, PostgreSQL
++ Back-end
+  + Java, Spring(SpringBoot), JSP, Mustache
+
++ Front-end
+  + HTML5, CSS3, Javascript, JQuery
+
++ DBMS
+  + Oracle, MariaDB, PostgreSQL
+  
++ Etc
+  + AWS EC2, RDS, S3
+  + Travis CI
+  + C#, Unity3D
+  
+
+### 관심 있는 기술
+---
++ Python 및 Python 기반 프레임워크 (Django, Flask)
++ Vue.js
 
 
 ### 경력 (Developer)
