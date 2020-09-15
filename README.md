@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 ### 보유 기술 및 사용 도구
 ----
 + Back-end
-  + Java, Spring(SpringBoot), JSP, Mustache
+  + Java, Spring(SpringBoot), JSP, Mustache, JPA, MyBatis
 
 + Front-end
-  + HTML5, CSS3, Javascript, JQuery
+  + HTML5, CSS3, JavaScript, JQuery
 
 + DBMS
-  + Oracle, MariaDB, PostgreSQL
+  + Oracle, MariaDB
   
 + Etc
   + AWS EC2, RDS, S3
