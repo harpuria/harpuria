@@ -23,7 +23,8 @@
 ### 관심 있는 기술
 ---
 + Python 및 Python 기반 프레임워크 (Django, Flask)
-+ Vue.js
++ Vue
++ React
 
 
 ### 경력 (Developer)
