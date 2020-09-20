@@ -3,13 +3,17 @@
 ### Hi there 👋
 안녕하세요. 백엔드 개발자 윤홍훈입니다.
 
-### 보유 기술 및 사용 도구
+### 경험 기술 맟 도구
 ----
++ Programming Language
+  + Java, Python, JavaScript, C#
+  
 + Back-end
-  + Java, Spring(SpringBoot), JSP, Mustache, JPA, MyBatis
+  + Spring(SpringBoot, JSP, Mustache, JPA, MyBatis)
+  + Django(스프링에 비해서는 입문 정도 수준입니다.) 
 
 + Front-end
-  + HTML5, CSS3, JavaScript, JQuery
+  + JQuery
 
 + DBMS
   + Oracle, MariaDB
@@ -22,7 +26,6 @@
 
 ### 관심 있는 기술
 ---
-+ Python 및 Python 기반 프레임워크 (Django, Flask)
 + Vue
 + React
 
