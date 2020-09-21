@@ -9,7 +9,7 @@
   + Java, Python, JavaScript, C#
   
 + Back-end
-  + Spring(SpringBoot, JSP, Mustache, JPA, MyBatis)
+  + Spring(SpringBoot, JSP, Thymeleaf, JPA, MyBatis)
   + Django(스프링에 비해서는 입문 정도 수준입니다.) 
 
 + Front-end
