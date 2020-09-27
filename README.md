@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharpuria)](https://hits.seeyoufarm.com)
 
 ### Hi there 👋
-안녕하세요. 백엔드 개발자 윤홍훈입니다.
+안녕하세요. 느리지만 꾸준히 성장하고 있는 백엔드 개발자 윤홍훈입니다. 
 
 ### 경험 기술 맟 도구
 ----
