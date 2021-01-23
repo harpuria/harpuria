@@ -4,16 +4,16 @@
 ### My Tech Stack
 ----
 + Programming Language
-  + Java, Python, JavaScript, C#, Dart
+  + Java, Python, JavaScript, Kotlin
   
-+ Web Back-end
++ Back-end
   + Spring, Django
 
-+ Web Front-end
++ Front-end
   + JQuery
 
 + Mobile
-  + Flutter
+  + Android
 
 + DBMS
   + Oracle, MariaDB
