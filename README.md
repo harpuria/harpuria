@@ -16,6 +16,6 @@
   + Android
 
 + DBMS
-  + Oracle, MariaDB
+  + Oracle, MariaDB, MySQL
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=harpuria)](https://github.com/anuraghazra/github-readme-stats)
